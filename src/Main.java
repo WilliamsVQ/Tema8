@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Telefono: "+persona1.getTelefono());
     }
 }
+
 class Persona{
     private int edad;
     private String nombre;
